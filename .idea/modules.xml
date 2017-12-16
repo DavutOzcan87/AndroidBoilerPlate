@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/BoilerPlateAndroid.iml" filepath="$PROJECT_DIR$/BoilerPlateAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/nekohtml/nekohtml.iml" filepath="$PROJECT_DIR$/nekohtml/nekohtml.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xerces/xerces.iml" filepath="$PROJECT_DIR$/xerces/xerces.iml" />
       <module fileurl="file://$PROJECT_DIR$/xerces-android/xerces-android.iml" filepath="$PROJECT_DIR$/xerces-android/xerces-android.iml" />
     </modules>
   </component>
