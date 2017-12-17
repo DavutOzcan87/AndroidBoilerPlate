@@ -1,1 +1,1 @@
-include ':app', ':nekohtml', ':xerces-android', ':boilerplate-common'
+include  ':nekohtml', ':xerces-android', ':boilerplate-common', ':sample'

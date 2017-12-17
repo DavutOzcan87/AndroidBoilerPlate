@@ -14,6 +14,5 @@ Article extractor api recompiled for android.
 
 * Android Studio 3.0 used
 
-## TODO
-
-I will add an example app soon
+## Sample Usage
+ArticleExtractor.INSTANCE.getText(html)

@@ -1,4 +1,4 @@
-package com.smartarticlereader.boilerplateandroid;
+package com.smartarticlereader.sample;
 
 import org.junit.Test;
 
